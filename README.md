@@ -1,6 +1,8 @@
 # Sysdig Pipeline Scanner
 
-This container will perform a scann
+This container will perform a scan using the sysdig-cli-scanner
+
+[Sysdig Vulnerability Management](https://docs.sysdig.com/en/docs/sysdig-secure/vulnerabilities/pipeline/)
 
 ## Requirements
 
